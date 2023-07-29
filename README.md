@@ -33,7 +33,7 @@
 
 # 📖 Hello React Front End <a name="todo-list"></a>
 
-## [Hello Rails Back End](https://github.com/edubew/hello-rails-back-end/tree/setup-backend)
+## [Hello Rails Back End](https://github.com/edubew/hello-rails-back-end)
 
 > A simple react application to render random greeting using react-redux.
 
